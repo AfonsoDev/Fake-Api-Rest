@@ -31,6 +31,7 @@
     ],
     "detalhes": [
       {
+        "IdPedido": "1547848",
         "Stage": "1",
         "Status": "Aguardando Status",
         "Data": "25/05/2022",
@@ -38,6 +39,7 @@
         "Detalhes": "O Pedido ainda nao foi recolhido"
       },
       {
+        "IdPedido": "9879854",
         "Stage": "5",
         "Status": "Aguardando Status",
         "Data": "25/05/2022",
@@ -45,6 +47,7 @@
         "Detalhes": "O Pedido ainda nao foi recolhido"
       },
       {
+        "IdPedido": "1876548",
         "Stage": "2",
         "Status": "Aguardando Status",
         "Data": "25/05/2022",
@@ -52,6 +55,7 @@
         "Detalhes": "O Pedido ainda nao foi recolhido"
       },
       {
+        "IdPedido": "1166585",
         "Stage": "6",
         "Status": "Aguardando Status",
         "Data": "25/05/2022",
