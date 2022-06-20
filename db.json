@@ -11,22 +11,22 @@
       {
         "IdPedido": "1547848",
         "status": "Aguardando Status",
-        "NomeCliente": "Maria Lima da Silva" 
+        "NomeCliente": "Dafiti" 
       },
       {
         "IdPedido": "9879854",
         "status": "Aguardando Status",
-        "NomeCliente": "João Da Silva Leite"
+        "NomeCliente": "Dafiti"
       },
       {
         "IdPedido": "1876548",
         "status": "Aguardando Status",
-        "NomeCliente": "Pedro Santana tapao"
+        "NomeCliente": "WePink"
       },
       {
         "IdPedido": "1166585",
         "status": "Aguardando Status",
-        "NomeCliente": "Windows Silva Lopes"
+        "NomeCliente": "WePink"
       }
     ],
     "detalhes": [
