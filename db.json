@@ -10,19 +10,23 @@
     "pedidos": [
       {
         "IdPedido": "1547848",
-        "status": "Aguardando Status"
+        "status": "Aguardando Status",
+        "NomeCliente": "Maria Lima da Silva" 
       },
       {
         "IdPedido": "9879854",
-        "status": "Aguardando Status"
+        "status": "Aguardando Status",
+        "NomeCliente": "João Da Silva Leite"
       },
       {
         "IdPedido": "1876548",
-        "status": "Aguardando Status"
+        "status": "Aguardando Status",
+        "NomeCliente": "Pedro Santana tapao"
       },
       {
         "IdPedido": "1166585",
-        "status": "Aguardando Status"
+        "status": "Aguardando Status",
+        "NomeCliente": "Windows Silva Lopes"
       }
     ],
     "detalhes": [
