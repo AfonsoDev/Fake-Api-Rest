@@ -1,57 +1,85 @@
 {
   "dados": {
     "profile": {
-        "Nome": "Joao Silva Lima",
-        "CpfCnpj": "620.260.210-40",
-        "Cep": "57237-970"
+      "Nome": "Joao Silva Lima",
+      "CpfCnpj": "620.260.210-40",
+      "Cep": "57237-970"
     },
     "pedidos": [
       {
         "IdPedido": "1547848",
         "status": "Aguardando Status",
         "NomeCliente": "Dafiti",
-        "detalhes":{
-              "Stage": "1",
-              "Status": "Aguardando Status",
-              "Data": "25/05/2022",
-              "Hora": "11:30",
-              "Detalhes": "O Pedido ainda nao foi recolhido"
+        "detalhes": {
+          "Stages": {
+            "StageZero": "tl-item-mark border-target",
+            "StageTwo": "tl-item-mark border-target",
+            "StageThree": "tl-item-unmark",
+            "StageFour": "tl-item",
+            "StageFive": "tl-item",
+            "StageSix": "tl-item"
+          },
+          "Status": "Aguardando Status",
+          "Data": "25/05/2022",
+          "Hora": "11:30",
+          "Detalhes": "O Pedido ainda nao foi recolhido"
         }
       },
       {
         "IdPedido": "9879854",
         "status": "Aguardando Status",
         "NomeCliente": "Dafiti",
-        "detalhes":{
-              "Stage": "1",
-              "Status": "Aguardando Status",
-              "Data": "25/05/2022",
-              "Hora": "11:30",
-              "Detalhes": "O Pedido ainda nao foi recolhido"
+        "detalhes": {
+          "Stages": {
+            "StageZero": "tl-item-mark border-target",
+            "StageTwo": "tl-item-mark border-target",
+            "StageThree": "tl-item-mark border-target",
+            "StageFour": "tl-item-mark border-target",
+            "StageFive": "tl-item-unmark",
+            "StageSix": "tl-item"
+          },
+          "Status": "Aguardando Status",
+          "Data": "25/05/2022",
+          "Hora": "11:30",
+          "Detalhes": "O Pedido ainda nao foi recolhido"
         }
       },
       {
         "IdPedido": "1876548",
         "status": "Aguardando Status",
         "NomeCliente": "WePink",
-        "detalhes":{
-              "Stage": "1",
-              "Status": "Aguardando Status",
-              "Data": "25/05/2022",
-              "Hora": "11:30",
-              "Detalhes": "O Pedido ainda nao foi recolhido"
+        "detalhes": {
+          "Stages": {
+            "StageZero": "tl-item-mark border-target",
+            "StageTwo": "tl-item-unmark",
+            "StageThree": "tl-item",
+            "StageFour": "tl-item",
+            "StageFive": "tl-item",
+            "StageSix": "tl-item"
+          },
+          "Status": "Aguardando Status",
+          "Data": "25/05/2022",
+          "Hora": "11:30",
+          "Detalhes": "O Pedido ainda nao foi recolhido"
         }
       },
       {
         "IdPedido": "1166585",
         "status": "Aguardando Status",
         "NomeCliente": "WePink",
-        "detalhes":{
-              "Stage": "1",
-              "Status": "Aguardando Status",
-              "Data": "25/05/2022",
-              "Hora": "11:30",
-              "Detalhes": "O Pedido ainda nao foi recolhido"
+        "detalhes": {
+          "Stages": {
+            "StageZero": "tl-item-mark border-target",
+            "StageTwo": "tl-item-mark border-target",
+            "StageThree": "tl-item-mark border-target",
+            "StageFour": "tl-item-mark border-target",
+            "StageFive": "tl-item-mark border-target",
+            "StageSix": "tl-item-unmark"
+          },
+          "Status": "Aguardando Status",
+          "Data": "25/05/2022",
+          "Hora": "11:30",
+          "Detalhes": "O Pedido ainda nao foi recolhido"
         }
       }
     ]
