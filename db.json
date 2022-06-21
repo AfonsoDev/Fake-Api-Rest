@@ -58,7 +58,7 @@
             "StageThree": "tl-item-mark border-target",
             "StageFour": "tl-item-mark border-target",
             "StageFive": "tl-item-mark border-target",
-            "StageSix": "tl-item-unmark"
+            "StageSix": "tl-item-redmark"
           },
           "Status": "Aguardando Status",
           "Data": "25/05/2022",
