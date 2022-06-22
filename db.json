@@ -61,7 +61,7 @@
             "StageTwo": "tl-item-mark border-target",
             "StageThree": "tl-item-mark border-target",
             "StageFour": "tl-item-mark border-target",
-            "StageFive": "tl-item-mark border-target",
+            "StageFive": "tl-item-mark border-target-red",
             "StageSix": "tl-item-redmark"
           },
           "Status": "Aguardando Status",
