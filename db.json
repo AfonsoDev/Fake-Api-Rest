@@ -3,7 +3,11 @@
     "profile": {
       "Nome": "Joao Silva Lima",
       "CpfCnpj": "620.260.210-40",
-      "Cep": "57237-970"
+      "Cep": "57237-970",
+      "Bairro":"Vila Nova",
+      "Rua":"RUA SANTO ANTONIO",
+      "Cidade":"Rio de Janeiro",
+      "Uf":"RJ",
     },
     "pedidos": [
       {
