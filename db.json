@@ -130,19 +130,22 @@
               "type": "success",
               "actions_before_submit": [
                 {
-                  "type": "collect_scan_codes",
-                  "title": "Escaneie os objetos a receber",
-                  "code_validation_rules": {
-                    "data": {
-                      "accepted_prefixes": [
-                        "35"
-                      ],
-                      "accepted_sufixes": [],
-                      "accepted_number_of_characters": [
-                        44
-                      ]
-                    }
+                  "type": "insert_info",
+                  "title": "Inserir informações da coleta",
+                  "inputs": [{
+                    "title": "Qtde de packlist",
+                    "type":"number"
+                  },{
+                    "title": "Qtde de volumes",
+                    "type":"number"
+                  },{
+                    "title": "Valor coletado",
+                    "type":"number"
+                  },{
+                    "title": "info adicional",
+                    "type":"text"
                   }
+                  ]
                 },
                 {
                   "type": "register_receiver",
@@ -163,87 +166,6 @@
                 {
                   "type": "signature",
                   "title": "signature"
-                }
-              ]
-            },
-            {
-              "title": "Insucesso",
-              "type": "failure",
-              "actions_before_submit": [
-                {
-                  "type": "register_problem",
-                  "title": "Qual é o problema?",
-                  "data": {
-                    "available_options": [
-                      {
-                        "title": "Estabelecimento fechado",
-                        "code": "20"
-                      },
-                      {
-                        "title": "Atraso do motorista",
-                        "code": "24"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "take_photo",
-                  "title": "Tira uma foto da evidência"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 663,
-      "sort": 4,
-      "address_summary": "AVENIDA TAMBORE, 301",
-      "quarter": "TAMBORE",
-      "city": "BARUERI",
-      "state": "SP",
-      "zip_code": "06460000",
-      "status": "pending",
-      "latitude": "-23.503970",
-      "longitude": "-46.844470",
-      "arrived_at_location_required": true,
-      "orders": [
-        {
-          "id": 476,
-          "idtype": 3,
-          "type": "Transferência",
-          "address": "AVENIDA TAMBORE, 301 - ",
-          "person_name": "SAO PAULO",
-          "status": "pending",
-          "latitude": "-23.503970",
-          "longitude": "-46.844470",
-          "person_document": "10520136000186",
-          "total_value": "120.35",
-          "available_actions": [
-            {
-              "title": "Sucesso",
-              "type": "success",
-              "actions_before_submit": [
-                {
-                  "type": "register_receiver",
-                  "title": "Quem está recebendo?",
-                  "data": {
-                    "available_options": [
-                      {
-                        "title": "Dono",
-                        "code": "101"
-                      },
-                      {
-                        "title": "Funcionário",
-                        "code": "102"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "type": "signature",
-                  "title": "Assinatura"
                 }
               ]
             },
