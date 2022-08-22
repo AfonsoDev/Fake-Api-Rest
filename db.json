@@ -60,10 +60,6 @@
                       {
                         "title": "Funcionário",
                         "code": "102"
-                      },
-                      {
-                        "title": "Outro",
-                        "code": "103"
                       }
                     ]
                   }
@@ -90,26 +86,6 @@
                       {
                         "title": "Atraso do motorista",
                         "code": "24"
-                      },
-                      {
-                        "title": "Trânsito imprevisto",
-                        "code": "25"
-                      },
-                      {
-                        "title": "Acidente na pista",
-                        "code": "26"
-                      },
-                      {
-                        "title": "Problemas Físicos no Veículo",
-                        "code": "27"
-                      },
-                      {
-                        "title": "Atraso no Cliente Anterior",
-                        "code": "28"
-                      },
-                      {
-                        "title": "Problemas no Rastreador",
-                        "code": "29"
                       }
                     ]
                   }
@@ -180,10 +156,6 @@
                       {
                         "title": "Funcionário",
                         "code": "102"
-                      },
-                      {
-                        "title": "Outro",
-                        "code": "103"
                       }
                     ]
                   }
@@ -210,26 +182,6 @@
                       {
                         "title": "Atraso do motorista",
                         "code": "24"
-                      },
-                      {
-                        "title": "Trânsito imprevisto",
-                        "code": "25"
-                      },
-                      {
-                        "title": "Acidente na pista",
-                        "code": "26"
-                      },
-                      {
-                        "title": "Problemas Físicos no Veículo",
-                        "code": "27"
-                      },
-                      {
-                        "title": "Atraso no Cliente Anterior",
-                        "code": "28"
-                      },
-                      {
-                        "title": "Problemas no Rastreador",
-                        "code": "29"
                       }
                     ]
                   }
@@ -285,10 +237,6 @@
                       {
                         "title": "Funcionário",
                         "code": "102"
-                      },
-                      {
-                        "title": "Outro",
-                        "code": "103"
                       }
                     ]
                   }
@@ -315,26 +263,6 @@
                       {
                         "title": "Atraso do motorista",
                         "code": "24"
-                      },
-                      {
-                        "title": "Trânsito imprevisto",
-                        "code": "25"
-                      },
-                      {
-                        "title": "Acidente na pista",
-                        "code": "26"
-                      },
-                      {
-                        "title": "Problemas Físicos no Veículo",
-                        "code": "27"
-                      },
-                      {
-                        "title": "Atraso no Cliente Anterior",
-                        "code": "28"
-                      },
-                      {
-                        "title": "Problemas no Rastreador",
-                        "code": "29"
                       }
                     ]
                   }
