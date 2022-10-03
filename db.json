@@ -1,9 +1,7 @@
 {
   "data":{
-    { 
       "status": "OK", 
        "mensagem": "Problema com campo", 
       "idTransacao": "4654654" 
-    } 
   }
 }
