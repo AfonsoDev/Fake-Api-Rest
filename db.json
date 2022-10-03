@@ -1,5 +1,11 @@
 {
-  "status": "ERRO", 
-  "mensagem": "Problema com campo", 
-  "idTransacao": "4654654"
-} 
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
